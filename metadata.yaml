@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1626
     wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24033#Dave-Porter-in-the-Gold-Fields--Or-The-Search-for-the-Landslide-Mine
 gutenberg_issued: '2007-12-26'
 gutenberg_type: Text
 identifiers:
