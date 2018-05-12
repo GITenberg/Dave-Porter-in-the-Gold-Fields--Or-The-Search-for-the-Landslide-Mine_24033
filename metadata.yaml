@@ -1,0 +1,41 @@
+_repo: Dave-Porter-in-the-Gold-Fields--Or-The-Search-for-the-Landslide-Mine_24033
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Rogers, Walter S.
+    birthdate: 1871
+    gutenberg_agent_id: '7671'
+    url: http://www.gutenberg.org/2009/agents/7671
+covers:
+- cover_type: archival
+  image_path: 24033-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stratemeyer, Edward
+    aliases:
+    - Bonehill, Ralph
+    - Winfield, Arthur M.
+    - Steward, Ray M.
+    - Bonehill, Captain Ralph
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '1626'
+    url: http://www.gutenberg.org/2009/agents/1626
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
+description: ''
+gutenberg_issued: '2007-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24033'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gold mines and mining -- Juvenile fiction'
+- !lcsh 'Miners -- Juvenile fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PZ'
+- !lcsh 'Western stories'
+title: Dave Porter in the Gold Fields; Or, The Search for the Landslide Mine
+url: http://www.gutenberg.org/ebooks/24033
